@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.custom-btn{
+    @apply bg-purple-500 text-center rounded-xs px-6  mx-auto text-white hover:bg-red-500 hover:text-black
+}
